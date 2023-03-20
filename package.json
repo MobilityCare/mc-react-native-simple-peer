@@ -1,6 +1,6 @@
 {
   "name": "mc-react-native-simple-peer",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "To building an exciting peer-to-peer WebRTC-based mobile Application",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
