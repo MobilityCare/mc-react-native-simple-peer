@@ -493,7 +493,7 @@ class RNSimplePeer extends stream.Duplex {
 
       this.readable = this.writable = false
 
-      if (!this._readableState.ended) this.push(null)
+      // if (!this._readableState.ended) this.push(null)
       if (!this._writableState.finished) this.end()
 
       this._connected = false

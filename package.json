@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-peer",
+  "name": "mc-react-native-simple-peer",
   "version": "0.1.5",
   "description": "To building an exciting peer-to-peer WebRTC-based mobile Application",
   "main": "lib/commonjs/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/ajith-ab/react-native-simple-peer",
-  "author": "AjiTh A B <ajith4ab@gmail.com> (https://github.com/ajith-ab)",
+  "repository": "https://github.com/MobilityCare/mc-react-native-simple-peer",
+  "author": "Wiam Tounsi <wiam.tounsi@pm.cme> (https://github.com/MobilityCare)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ajith-ab/react-native-simple-peer/issues"
+    "url": "https://github.com/MobilityCare/mc-react-native-simple-peer/issues"
   },
-  "homepage": "https://github.com/ajith-ab/react-native-simple-peer#readme",
+  "homepage": "https://github.com/MobilityCare/mc-react-native-simple-peer#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
